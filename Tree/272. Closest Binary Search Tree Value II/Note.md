@@ -1,3 +1,4 @@
+Difficulty: 3
 There few ways to solve this problems
 Solution 1:
 1. construct a list
