@@ -13,4 +13,4 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 
 # Binary Indexed Tree
-[315. Count of Smaller Numbers After Self]() [4.0]
+[315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
