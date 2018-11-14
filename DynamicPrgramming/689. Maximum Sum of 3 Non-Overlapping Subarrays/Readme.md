@@ -1,4 +1,4 @@
-#689. Maximum Sum of 3 Non-Overlapping Subarrays
+# 689. Maximum Sum of 3 Non-Overlapping Subarrays
 
 This is a non-classic DP question, with greedy approach.
 
