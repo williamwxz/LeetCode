@@ -8,9 +8,11 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 [5. Longest Palindromic Substring](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/5.%20Longest%20Palindromic%20Substring) [2.5]
 
-
 [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays) [4.5]
 
+[730. Count Different Palindromic Subsequences](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/730.%20Count%20Different%20Palindromic%20Subsequences)[5.0]
+
+[887. Super Egg Drop](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/887.%20Super%20Egg%20Drop)[5.0]
 
 ## Binary Indexed Tree
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
