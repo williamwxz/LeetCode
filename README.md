@@ -12,5 +12,5 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays) [4.5]
 
 
-# Binary Indexed Tree
+## Binary Indexed Tree
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
