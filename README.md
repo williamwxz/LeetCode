@@ -18,4 +18,4 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
 
 ## Back Tracking
-[294. Flip Game II]() [3.0]
+[294. Flip Game II](https://github.com/williamwxz/LeetCode/tree/master/BackTracking/294.%20Flip%20Game%20II) [3.0]
