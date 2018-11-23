@@ -19,3 +19,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Back Tracking
 [294. Flip Game II](https://github.com/williamwxz/LeetCode/tree/master/BackTracking/294.%20Flip%20Game%20II) [3.0]
+
+# Bit Manupulation
+[137. Single Number II]() [4.0]
