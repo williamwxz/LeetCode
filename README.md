@@ -21,5 +21,5 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 [294. Flip Game II](https://github.com/williamwxz/LeetCode/tree/master/BackTracking/294.%20Flip%20Game%20II) [3.0]
 
 # Bit Manupulation
-[137. Single Number II]() [4.0]
-[260. Single Number III]() [4.0]
+[137. Single Number II](https://github.com/williamwxz/LeetCode/tree/master/BitMunipulation/137.%20Single%20Number%20II) [4.0]
+[260. Single Number III](https://github.com/williamwxz/LeetCode/tree/master/BitMunipulation/260.%20Single%20Number%20III) [4.0]
