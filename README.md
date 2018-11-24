@@ -22,3 +22,4 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 # Bit Manupulation
 [137. Single Number II]() [4.0]
+[260. Single Number III]() [4.0]
