@@ -14,6 +14,8 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 [887. Super Egg Drop](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/887.%20Super%20Egg%20Drop)[5.0]
 
+[188. Best Time to Buy and Sell Stock IV]()[4.5]
+
 ## Binary Indexed Tree
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
 
@@ -29,5 +31,5 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 [948. Bag of Tokens]()[3.5]
 
 ## Greedy
-[55. Jump Game]()[3.5]
-[45. Jump Game II]()[4.0]
+[55. Jump Game](https://github.com/williamwxz/LeetCode/tree/master/Greedy/55.%20Jump%20Game)[3.5]
+[45. Jump Game II](https://github.com/williamwxz/LeetCode/tree/master/Greedy/45.%20Jump%20Game%20II)[4.0]
