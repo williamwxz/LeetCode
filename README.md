@@ -33,3 +33,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 ## Greedy
 [55. Jump Game](https://github.com/williamwxz/LeetCode/tree/master/Greedy/55.%20Jump%20Game)[3.5]
 [45. Jump Game II](https://github.com/williamwxz/LeetCode/tree/master/Greedy/45.%20Jump%20Game%20II)[4.0]
+
+## Graph
+[952. Largest Component Size by Common Factor]()[4.5]
