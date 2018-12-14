@@ -36,3 +36,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Graph
 [952. Largest Component Size by Common Factor]()[4.5]
+
+## Math
+[910. Smallest Range II]()[3.5]
