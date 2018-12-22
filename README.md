@@ -14,7 +14,9 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 [887. Super Egg Drop](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/887.%20Super%20Egg%20Drop)[5.0]
 
-[188. Best Time to Buy and Sell Stock IV]()[4.5]
+[188. Best Time to Buy and Sell Stock IV](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)[4.5]
+
+[956. Tallest Billboard]()[4.5]
 
 ## Binary Indexed Tree
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
