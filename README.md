@@ -44,3 +44,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 # SQL
 [608. Tree Node](https://github.com/williamwxz/LeetCode/tree/master/SQL)[2.5]
+
+# Stack
+[962. Maximum Width Ramp]()[3.5]
