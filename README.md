@@ -46,4 +46,9 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 [608. Tree Node](https://github.com/williamwxz/LeetCode/tree/master/SQL)[2.5]
 
 # Stack
-[962. Maximum Width Ramp]()[3.5]
+[962. Maximum Width Ramp](https://github.com/williamwxz/LeetCode/tree/master/Stack/962.%20Maximum%20Width%20Ramp)[3.5]
+
+# Union Find
+[959. Regions Cut By Slashes](https://github.com/williamwxz/LeetCode/tree/master/UnionFind/959.%20Regions%20Cut%20By%20Slashes)[4.0]
+
+[947. Most Stones Removed with Same Row or Column]()[4.0]
