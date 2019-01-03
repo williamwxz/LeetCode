@@ -18,6 +18,8 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 [956. Tallest Billboard](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/956.%20Tallest%20Billboard)[4.5]
 
+[964. Least Operators to Express Number]()[5.0]
+
 ## Binary Indexed Tree
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
 
