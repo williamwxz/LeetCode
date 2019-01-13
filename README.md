@@ -20,6 +20,8 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 [964. Least Operators to Express Number]()[5.0]
 
+[975. Odd Even Jump]()[4.0]
+
 ## Binary Indexed Tree
 [315. Count of Smaller Numbers After Self](https://github.com/williamwxz/LeetCode/tree/master/BinaryIndexedTree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self) [4.0]
 
@@ -43,6 +45,7 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Math
 [910. Smallest Range II](https://github.com/williamwxz/LeetCode/tree/master/Math/910.%20Smallest%20Range%20II)[3.5]
+[976. Largest Perimeter Triangle]()[3.0]
 
 ## SQL
 [608. Tree Node](https://github.com/williamwxz/LeetCode/tree/master/SQL)[2.5]
@@ -57,3 +60,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Tree
 [971. Flip Binary Tree To Match Preorder Traversal]()[3.5]
+
+## Map
+[974. Subarray Sums Divisible by K]()[3.0]
