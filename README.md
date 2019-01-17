@@ -59,7 +59,11 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 [947. Most Stones Removed with Same Row or Column]()[4.0]
 
 ## Tree
+[222. Count Complete Tree Nodes]()[3.0]
 [971. Flip Binary Tree To Match Preorder Traversal]()[3.5]
 
 ## Map
 [974. Subarray Sums Divisible by K]()[3.0]
+
+## Note:
+If you want to check even/odd, such as (i%2==0) to check, try using (i&1==0) to check could be faster
