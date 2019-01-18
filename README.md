@@ -18,6 +18,8 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 [956. Tallest Billboard](https://github.com/williamwxz/LeetCode/tree/master/DynamicPrgramming/956.%20Tallest%20Billboard)[4.5]
 
+[943. Find the Shortest Superstring]()[5.0]
+
 [964. Least Operators to Express Number]()[5.0]
 
 [975. Odd Even Jump]()[4.0]
