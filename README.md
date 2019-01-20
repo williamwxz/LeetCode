@@ -63,6 +63,7 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 ## Tree
 [222. Count Complete Tree Nodes]()[3.0]
 [971. Flip Binary Tree To Match Preorder Traversal]()[3.5]
+[979. Distribute Coins in Binary Tree]()[4.0]
 
 ## Map
 [974. Subarray Sums Divisible by K]()[3.0]
