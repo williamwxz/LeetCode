@@ -70,3 +70,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## String
 [916. Word Subsets]()[3.5]
+
+## Binary Index Tree
+[715. Range Module]()[4.0]
