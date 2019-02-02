@@ -73,3 +73,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Binary Index Tree
 [715. Range Module]()[4.0]
+
+## Array
+[699. Falling Squares]()[3.5]
