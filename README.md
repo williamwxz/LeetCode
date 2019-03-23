@@ -48,6 +48,7 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 ## Math
 [910. Smallest Range II](https://github.com/williamwxz/LeetCode/tree/master/Math/910.%20Smallest%20Range%20II)[3.5]
 [976. Largest Perimeter Triangle]()[3.0]
+[1015. Numbers With Repeated Digits]()[4.5]
 
 ## SQL
 [608. Tree Node](https://github.com/williamwxz/LeetCode/tree/master/SQL)[2.5]
