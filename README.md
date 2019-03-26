@@ -77,3 +77,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Array
 [699. Falling Squares]()[3.5]
+
+## Sliding Window
+[992. Subarrays with K Different Integers]()[4.0]
