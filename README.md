@@ -83,3 +83,6 @@ The number follows the question means the difficulty: (1 easy to 5 difficult)
 
 ## Sliding Window
 [992. Subarrays with K Different Integers]()[4.0]
+
+## Binary Search
+[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)[4.0]
