@@ -51,7 +51,7 @@ class Solution {
                 if (j>0){
                     j=table[j-1];
                 }else{
-                    table[i++]=j;
+                    table[i++]=j; // that just mean table[i]=0
                 }
             }
         }
