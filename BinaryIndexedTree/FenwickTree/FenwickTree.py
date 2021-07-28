@@ -1,4 +1,5 @@
 class FenwickTree:
+    # Use for partial sum of an array, and the array is MODIFIABLE.
     def __init__(self, N: int):
         self.tree = [0]*(N+1)
 
@@ -11,8 +12,9 @@ class FenwickTree:
             self.tree[i]+=delta
             i+=self.__lowbit(i)
     
-    def query(i: int):
+    def query(self, i: int):
         count=0
         while i>0:
             count += self.tree[i]
             i-=self.__lowbit(i)
+        return count
